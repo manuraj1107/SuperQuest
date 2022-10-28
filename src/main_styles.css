@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Open+Sans:wght@300;400;500;600;700;800&family=Roboto:wght@100;300;400;500;700;900&display=swap");
+:root {
+  --main_font: "Montserrat", sans-serif;
+  --primary_font: "Open Sans", sans-serif;
+  --secondary_font: "Roboto", sans-serif;
+  --main_color:#EAEAEA;
+  --primary_color:#B2B2B2;
+  --black_color:#3C4048;
+  --dark_black_color:#000000;
+  --white__color:#FFFFFF;
+}
