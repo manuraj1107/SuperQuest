@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "SuperQuest",
+    "author": "manuraj",
+    "version": "1.0",
+    "description": "Search for the answers if stuck with code",
+    "action": {
+        "default_title": "My Apps",
+        "default_popup": "index.html"
+    }
+}
