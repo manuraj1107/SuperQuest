@@ -43,6 +43,17 @@ npm run dev
 4. goto settings> manage extension> developer mode on> load unpacked> goto your project directory>select dist folder> click upload>now pin the extension
 
 
+#### NOTE
+We hard-coded our own Custom Api because Currently our dyanamic Api was not working properly so that we can show what we wanted, and how we want the problem to solved , In the upcoming days we are adding the  features like Bookmark, Authentication, inside extension vertical tabs, improve the function of our dynamic API
+
+Current Version has the  limited possibilities, Still you can search the common error and questions like:
+
+1. cors or how to solve the cors error
+2. How to get video duration of a video file during input
+3. how to solve ceasers cypher problem with js
+4. javascript regular expression remove spaces
+
+we trying to make things more better, This is it Stay Tuned!
 <hr />
 
 
