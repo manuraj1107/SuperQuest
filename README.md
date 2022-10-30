@@ -16,7 +16,7 @@ git clone git@github.com:manuraj1107/SuperQuest.git
 3. To install the package and dependencies
 
 ```
-cd superquest/
+cd SuperQuest/
 npm i
 ```
 
