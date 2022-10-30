@@ -1,11 +1,11 @@
-### SuperQuest
+## SuperQuest
 
-##### SuperQuest is a web-App and browser-based extension which is solving for searching quick and optimal answers/solutions of the User's problem on a single page.
+#### SuperQuest is a web-App and browser-based extension which is solving for searching quick and optimal answers/solutions of the User's problem on a single page.
 
 <hr />
 
 
-#### Installation
+### Installation
 
 1. fork the repository
 2. Open your terminal and paste 
@@ -22,7 +22,7 @@ npm i
 
 > npm run dev
 
-##### For Installing chrome extension
+#### For Installing chrome extension
 
 1. run the command in the terminal
 
@@ -38,10 +38,10 @@ goto settings> manage extension> developer mode on> load unpacked> goto your pro
 <hr />
 
 
-#### Problem
+### Problem
 Most developers find answers on Stackoverflow, can there be a quicker solution for searching on Stackoverflow (Maybe through extension only), Save some time on searching, copying, etc? StackOverflow or Error query web app as an extension, just copy the code-error and paste it to the extension and get results (doc, videos, etc), Save time from opening lots of tabs.
 
-#### Solution
+### Solution
 
 1. we are trying to bring the best and optimal solution for the user query.
 and in the future, we can merge all the data into our DB and through our DB we can show the best results to lower the user's time of the search. and we can add bookmark features, vertical tab functionality, and many more so that users can save time.
