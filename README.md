@@ -22,13 +22,19 @@ npm i
 
 4. For the WebApp
 
-> npm run dev
+```
+npm run dev
+```
 
 #### For Installing chrome extension
 
 1. run the command in the terminal
 
-> npm run build
+```
+ npm run build
+
+```
+
 
 2. This will create the <b>dist</b> named folder
 
