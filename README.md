@@ -32,7 +32,7 @@ npm i
 
 3. Open your Web browser
 
-goto settings> manage extension> developer mode on> load unpacked> goto your project directory>select dist folder> click upload>now pin the extension
+4. goto settings> manage extension> developer mode on> load unpacked> goto your project directory>select dist folder> click upload>now pin the extension
 
 
 <hr />
