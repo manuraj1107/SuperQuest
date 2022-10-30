@@ -44,7 +44,8 @@ npm run dev
 
 
 #### NOTE
-We hard-coded our own Custom Api because Currently our dyanamic Api was not working properly so that we can show what we wanted, and how we want the problem to solved , In the upcoming days we are adding the  features like Bookmark, Authentication, inside extension vertical tabs, improve the function of our dynamic API
+We hard-coded our own Custom Api because Currently our dyanamic Api was not working properly 
+so here we fetching data with Custom Api just to show what we wanted the solution to work like, or how we want the problem to solved , In the upcoming days we are adding the  features like Bookmark, Authentication, inside extension vertical tabs, improve the function of our dynamic API
 
 Current Version has the  limited possibilities, Still you can search the common error and questions like:
 
