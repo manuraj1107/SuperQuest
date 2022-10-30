@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from "react";
 import "./mainPage.css";
+import PopOver from "./Popover";
 import { Search } from "./Search";
+import SearchData from "./SearchData";
 
 const MainPage = () => {
 
@@ -9,7 +11,9 @@ const MainPage = () => {
   return (
     
     <div className="form__container">
-    <Search />
+    {/* <Search /> */}
+    <SearchData />
+    {/* <PopOver /> */}
       </div>  
       
   );
